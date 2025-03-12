@@ -5,10 +5,4 @@ $(document).ready(function(){
 		e.preventDefault();
 		$(".nav").slideToggle(500);
 	});
-	// Конец Мобильное меню
-
-	
-
-
-
-});//END READY
+});
